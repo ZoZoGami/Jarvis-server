@@ -1,0 +1,17 @@
+[
+    {
+        "email": "student1@example.com",
+        "courseCode": "CS101",
+        "link": "https://example.com/courses/cs101"
+    },
+    {
+        "email": "student2@example.com",
+        "courseCode": "MATH201",
+        "link": "https://example.com/courses/math201"
+    },
+    {
+        "email": "student3@example.com",
+        "courseCode": "ENG301",
+        "link": "https://example.com/courses/eng301"
+    }
+]

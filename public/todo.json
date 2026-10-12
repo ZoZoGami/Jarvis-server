@@ -1,0 +1,12 @@
+[
+  {
+    "email": "user@example.com",
+    "todo": "Finish writing documentation",
+    "priority": "high"
+  },
+  {
+    "email": "anotheruser@example.com",
+    "todo": "Update dependencies",
+    "priority": "medium"
+  }
+]
